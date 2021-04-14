@@ -1,0 +1,172 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/mac/Desktop/html5up-future-imperfect/double.html",
+		"/Users/mac/Desktop/html5up-future-imperfect/images/76240EFD-5C39-4E6C-BE6D-28120C9104BC-25AD54D8-EC89-40DC-91D7-658DB21AC834.JPG",
+		"/Users/mac/Desktop/html5up-future-imperfect/images/pic01.jpg",
+		"/Users/mac/Desktop/html5up-future-imperfect/images/FE3D6477-EAFA-4800-9F36-DE9FA80D9E98-5F59E4A0-6F14-4389-8357-5CEC79E38ED8.JPG",
+		"/Users/mac/Desktop/html5up-future-imperfect/images/C69633F0-0828-470F-B97A-489ECCD604F6-5FC8C054-DF3E-47E8-916C-3F5442BA211D.JPG",
+		"/Users/mac/Desktop/html5up-future-imperfect/images/avatar.jpg",
+		"/Users/mac/Desktop/369E79FF-DCC4-463D-AB8D-654A5B9BE41C-ADDE7CC9-926C-4770-B7FC-126B9699412B.JPG",
+		"/Users/mac/Desktop/F790A9E4-D503-4E0A-A878-02D7E35067F2-58D4690C-00BD-4F52-BE9B-DAE30C6141CD.JPG"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "double.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
